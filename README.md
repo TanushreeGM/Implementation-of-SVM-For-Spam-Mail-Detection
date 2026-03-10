@@ -11,7 +11,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 1. Load and preprocess the spam dataset.
 2. Convert text messages to numbers using TF-IDF vectorization.
 3. Split the data into training and testing sets.
-4. Train an SVM classifier on the training data/
+4. Train an SVM classifier on the training data.
+5. Predict results and display the confusion matrix heatmap. 
 
 ## Program:
 ```
